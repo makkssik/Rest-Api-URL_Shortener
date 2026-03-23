@@ -1,0 +1,15 @@
+url-shortener
+*.exe
+*.test
+*.out
+
+/storage/*.db
+*.sqlite
+*.sqlite3
+
+/config/local.yaml
+
+.idea/
+.vscode/
+
+.DS_Store
